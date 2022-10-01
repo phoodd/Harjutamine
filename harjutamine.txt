@@ -1,1 +1,10 @@
 Ma saan kasutada githubbi, et otsida vastuseid kodeerimis küsimustele. Vahel saan ka otsida koode, mis on juba ära kirjutatud. Saan ka jagada enda koodimist maailmaga.
+
+Asutajad:
+Tom Preston-Werner
+Chris Wanstrath
+P. J. Hyett
+Scott Chacon
+
+
+GITHUB loodi aastal 2007 ja oli publikule saadaval aastal 2008. 
